@@ -1,0 +1,4 @@
+ls -a 2> err | sort > out 2> err2
+cat err
+ls
+exit
