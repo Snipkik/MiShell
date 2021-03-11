@@ -3,7 +3,7 @@ a simply Shell inplemented in C
 
 # Compile and execute
 
-```make && ./systemd ```
+```make && ./mishell ```
 
 # Implementation
 
