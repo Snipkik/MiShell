@@ -1,5 +1,5 @@
 # MiShell
-a simply Shell inplemented in C
+a simply Shell implemented in C
 
 # Compile and execute
 
