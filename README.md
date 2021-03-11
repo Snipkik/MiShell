@@ -9,5 +9,5 @@ a simply Shell implemented in C
 
 - input/output redirection : ```< > 2>```
 - multiple pipe : ```|```
-- Running jobs in the foreground : ```&``` 
+- Running jobs in the background : ```&``` 
 - history of commands 
