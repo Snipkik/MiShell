@@ -5,8 +5,9 @@ a simply Shell inplemented in C
 
 ```make && ./mishell ```
 
-# Implementation
+# Following functionalities have been implemented
 
-- accept redirection : < > 2>
-- multiple pipe
+- input/output redirection : ```< > 2>```
+- multiple pipe : ```|```
+- Running jobs in the foreground : ```&``` 
 - history of commands 
